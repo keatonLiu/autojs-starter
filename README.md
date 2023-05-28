@@ -2,7 +2,7 @@
 autojs 代码提示
 
 ## 使用方式
-复制该项目中的node_modules与tsconfig.json到您的项目中即可
+直接克隆使用或者复制该项目中的node_modules与tsconfig.json到您的项目中即可
 
 以vscode为例，提示效果如下：
 
